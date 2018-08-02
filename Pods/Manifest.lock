@@ -1,0 +1,20 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.31.0)
+  - MapboxGeocoder.swift (0.8.1)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - MapboxGeocoder.swift (~> 0.8)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Google-Mobile-Ads-SDK
+    - MapboxGeocoder.swift
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 6e529e748b45507a2ca904e0b5a52669ba3920c4
+  MapboxGeocoder.swift: 354fccd4834bae4c5b792428559eb87d994d2cf5
+
+PODFILE CHECKSUM: ced67eadd318ae609e37854634b1c4a6b5f82a50
+
+COCOAPODS: 1.5.2
